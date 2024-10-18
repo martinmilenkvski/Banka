@@ -9,8 +9,11 @@ export default {
     themes: [
       {
         mytheme: {
+          // Plava  #2870ED
           primary: "#2870ED",
+          // zelena
           secondary: "#0CB43F",
+          // pomarandzesta
           accent: "#FF6130",
           neutral: "#3d4451",
           "base-100": "#ffffff",
