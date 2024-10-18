@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "./components/Navbar";
 import HeroSection from "./components/HeroSection";
 import CardsHero from "./components/CardsHero";
+import BrankaSection from "./components/BrankaSection";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Navbar />
     <HeroSection/>
     <CardsHero/>
+    <BrankaSection/>
     </div>
   );
 }
